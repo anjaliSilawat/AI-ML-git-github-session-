@@ -1,1 +1,2 @@
 i am learning git
+codes never lies , comments do sometimes !
